@@ -1,31 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
   <title id="title">DroidSuit features</title>
-  <desc id="desc">Four cards for device overview, local backups, file and application management, and privacy.</desc>
+  <desc id="desc">Quatre cartes pour l’appareil, les sauvegardes, les fichiers et la confidentialité.</desc>
   <rect width="1200" height="260" rx="24" fill="#f7fbff"/>
   <g font-family="Segoe UI, Arial, sans-serif">
     <g transform="translate(24 24)">
       <rect width="270" height="212" rx="18" fill="#fff" stroke="#dde2e9"/>
       <circle cx="46" cy="48" r="24" fill="#eff6ff"/><path d="M38 28h16a7 7 0 0 1 7 7v27a7 7 0 0 1-7 7H38a7 7 0 0 1-7-7V35a7 7 0 0 1 7-7zm2 5h12v3H40zm2 29h8v2h-8z" fill="#005fea"/>
-      <text x="24" y="106" font-size="22" font-weight="700" fill="#1e2333">Device overview</text>
-      <text x="24" y="139" font-size="16" fill="#5f687a">Battery, storage and</text><text x="24" y="164" font-size="16" fill="#5f687a">diagnostics in one place.</text>
+      <text x="24" y="106" font-size="22" font-weight="700" fill="#1e2333">Vue de l’appareil</text>
+      <text x="24" y="139" font-size="16" fill="#5f687a">Batterie, stockage et</text><text x="24" y="164" font-size="16" fill="#5f687a">diagnostics réunis.</text>
     </g>
     <g transform="translate(318 24)">
       <rect width="270" height="212" rx="18" fill="#fff" stroke="#dde2e9"/>
       <circle cx="46" cy="48" r="24" fill="#e9fbf8"/><path d="M28 45h36v23H28z" fill="#005fea"/><path d="M32 53h18v4H32z" fill="#d9f0ff"/><circle cx="57" cy="55" r="3" fill="#00b8a5"/><path d="M34 41c2-12 18-16 27-7l4-3v14H51l5-5c-6-6-16-5-22 1z" fill="#00b8a5"/>
-      <text x="24" y="106" font-size="22" font-weight="700" fill="#1e2333">Local backups</text>
-      <text x="24" y="139" font-size="16" fill="#5f687a">Incremental, verifiable and</text><text x="24" y="164" font-size="16" fill="#5f687a">optionally encrypted.</text>
+      <text x="24" y="106" font-size="22" font-weight="700" fill="#1e2333">Sauvegardes locales</text>
+      <text x="24" y="139" font-size="16" fill="#5f687a">Incrémentales, vérifiables</text><text x="24" y="164" font-size="16" fill="#5f687a">et chiffrables.</text>
     </g>
     <g transform="translate(612 24)">
       <rect width="270" height="212" rx="18" fill="#fff" stroke="#dde2e9"/>
       <circle cx="46" cy="48" r="24" fill="#eff6ff"/><path d="M25 43h42v27H25z" fill="#0047c6"/><path d="M27 39h18l5 7H25z" fill="#0047c6"/><path d="M25 50h45l-6 20H29z" fill="#005fea"/>
-      <text x="24" y="106" font-size="22" font-weight="700" fill="#1e2333">Files &amp; apps</text>
-      <text x="24" y="139" font-size="16" fill="#5f687a">Explore, export and manage</text><text x="24" y="164" font-size="16" fill="#5f687a">content deliberately.</text>
+      <text x="24" y="106" font-size="22" font-weight="700" fill="#1e2333">Fichiers &amp; applis</text>
+      <text x="24" y="139" font-size="16" fill="#5f687a">Explorer, exporter et gérer</text><text x="24" y="164" font-size="16" fill="#5f687a">chaque contenu clairement.</text>
     </g>
     <g transform="translate(906 24)">
       <rect width="270" height="212" rx="18" fill="#fff" stroke="#dde2e9"/>
       <circle cx="46" cy="48" r="24" fill="#e9fbf8"/><path d="M46 25c8 7 14 8 21 9v13c0 13-10 21-21 26-11-5-21-13-21-26V34c7-1 13-2 21-9z" fill="#00b8a5"/><path d="m37 48 6 6 12-14" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-      <text x="24" y="106" font-size="22" font-weight="700" fill="#1e2333">Private by design</text>
-      <text x="24" y="139" font-size="16" fill="#5f687a">No account, no ads and</text><text x="24" y="164" font-size="16" fill="#5f687a">no telemetry.</text>
+      <text x="24" y="106" font-size="22" font-weight="700" fill="#1e2333">Privé par conception</text>
+      <text x="24" y="139" font-size="16" fill="#5f687a">Sans compte, sans publicité</text><text x="24" y="164" font-size="16" fill="#5f687a">et sans télémétrie.</text>
     </g>
   </g>
 </svg>
