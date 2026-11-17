@@ -31,7 +31,7 @@
   <g transform="translate(415 92)">
     <text x="0" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="82" font-weight="750" fill="#1e2333">Droid<tspan fill="#005fea">Suit</tspan></text>
     <text x="2" y="125" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600" fill="#5f687a" letter-spacing=".6">VOTRE TÉLÉPHONE. VOS DONNÉES. VOTRE ESPACE.</text>
-    <rect x="2" y="166" width="286" height="48" rx="24" fill="#005fea"/>
+    <rect x="2" y="166" width="350" height="48" rx="24" fill="#005fea"/>
     <circle cx="30" cy="190" r="7" fill="#90ceff"/>
     <text x="49" y="198" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="650" fill="#fff">BÊTA PRIVÉE · SUR INVITATION</text>
   </g>
