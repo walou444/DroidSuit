@@ -1,0 +1,13 @@
+# This repository intentionally contains presentation assets only.
+*.zip
+*.exe
+*.msi
+*.dll
+*.pdb
+bin/
+obj/
+src/
+sources/
+tools/
+backups/
+exports/

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">DroidSuit</title>
+  <desc id="desc">Private mobile workspace for Android and iPhone on Windows.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7fbff"/>
+      <stop offset="1" stop-color="#eaf4ff"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d9f0ff"/>
+      <stop offset="1" stop-color="#90ceff"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#0047c6" flood-opacity=".16"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="380" rx="30" fill="url(#bg)"/>
+  <path d="M0 290C230 210 350 372 610 288c211-69 366-31 590 27v65H0z" fill="#d9f0ff" opacity=".65"/>
+  <circle cx="1042" cy="76" r="160" fill="#90ceff" opacity=".17"/>
+  <circle cx="1100" cy="320" r="115" fill="#00b8a5" opacity=".10"/>
+
+  <g transform="translate(84 54) scale(.54)" filter="url(#shadow)">
+    <rect x="118" y="58" width="226" height="396" rx="46" fill="#005fea"/>
+    <rect x="143" y="119" width="176" height="255" rx="17" fill="url(#screen)"/>
+    <rect x="192" y="84" width="78" height="12" rx="6" fill="#fff"/>
+    <rect x="198" y="414" width="66" height="13" rx="6.5" fill="#fff"/>
+    <path d="M343 192c32 28 67 38 99 41v78c0 67-49 116-99 139-50-23-99-72-99-139v-78c32-3 67-13 99-41z" fill="#00b8a5" stroke="#fff" stroke-width="15"/>
+    <path d="m294 317 32 32 67-78" fill="none" stroke="#fff" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g transform="translate(415 92)">
+    <text x="0" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="82" font-weight="750" fill="#1e2333">Droid<tspan fill="#005fea">Suit</tspan></text>
+    <text x="2" y="125" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" fill="#5f687a" letter-spacing="1">YOUR PHONE. YOUR DATA. YOUR WORKSPACE.</text>
+    <rect x="2" y="166" width="286" height="48" rx="24" fill="#005fea"/>
+    <circle cx="30" cy="190" r="7" fill="#90ceff"/>
+    <text x="49" y="198" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="650" fill="#fff">PRIVATE BETA · INVITE ONLY</text>
+  </g>
+</svg>
